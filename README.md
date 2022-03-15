@@ -4,5 +4,5 @@ Maquetacion de una página web basado en el diseño creado por [Adhiari Subekti]
 
 Además, de una pequeña planeación para que las personas sepan del sitio.
 
-* [Planeación]()(./planeacion/planeacion.md)
-* [Link sitio web]()([https://theblower0.github.io/vaccination-concept-design/](https://theblower0.github.io/vaccination-concept-design/))
+* [Planeación](./planeacion/planeacion.md)
+* [Link sitio web](https://theblower0.github.io/vaccination-concept-design/)
